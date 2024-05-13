@@ -1,0 +1,14 @@
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.deps.json
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.runtimeconfig.json
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.dll
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.pdb
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.AssemblyInfoInputs.cache
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.AssemblyInfo.cs
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.csproj.CoreCompileInputs.cache
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.dll
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/refint/AreaOfCircle.dll
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.pdb
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.genruntimeconfig.cache
+/Users/sonnienguyen/Desktop/LaunchCode/C# Practice/Chapter 1/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/ref/AreaOfCircle.dll
